@@ -20,7 +20,6 @@ void insertionSort(int arr[], int n) {
 int main() {
     int arr[] = {38, 27, 43, 3, 9, 82, 10};
     int n = 7;
-
     insertionSort(arr, n);
 
     printf("Sorted array: ");
